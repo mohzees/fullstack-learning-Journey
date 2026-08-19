@@ -1,0 +1,42 @@
+* {
+ margin: 20px; 
+  
+}
+
+
+.main {
+    background-color:  rgb(133, 189, 242);
+    border-bottom: 10px solid rgb(14, 78, 118);
+    border-top: 10px solid rgb(100, 129, 255);
+    border-left: 10px solid rgb(100, 129, 255);
+    border-right: 10px solid rgb(14, 78, 118);
+    margin-left: auto;
+    margin-right: auto;
+    width: 550px;
+    padding: 15px;
+    display: flex;
+    justify-content: space-around;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+
+}
+.pre {
+   margin: 10px;
+   padding-top: 15px;
+    text-align: center;
+    
+}
+
+.n {
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.d {
+    font-size: 18px;
+   
+}
+
+.l{
+    font-size: 22px;
+    font-weight: bold;
+}
